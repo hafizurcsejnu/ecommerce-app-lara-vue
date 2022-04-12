@@ -1,0 +1,13 @@
+Mounting is a process by which the operating system makes files and directories on a storage device available for users to access via the computer's file system. 
+
+
+
+To get something you never had, You have to do something you never did. 
+
+
+
+
+
+
+Related learning resourses:
+https://www.youtube.com/watch?v=iIvN7upsLoA&ab_channel=LearnwithSumit-LWS-Bangladesh
